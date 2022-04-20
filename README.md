@@ -7,5 +7,8 @@ This project proposes Ethical Understanding based on pretrained language model.
 ## Requirements
 `pip install -r requirements.txt`
 
+## Data
+The dataset avaiable at [here](https://github.com/fenffef/FG_ETHICS)
+
 ## Citation
 @ARTICLE{9739920,  author={Feng, Xuan and Gu, Tianlong and Bao, Xuguang and Li, Long},  journal={IEEE Transactions on Affective Computing},   title={Behavior-based Ethical Understanding in Chinese Social News},   year={2022},  volume={},  number={},  pages={1-1},  doi={10.1109/TAFFC.2022.3160745}}
